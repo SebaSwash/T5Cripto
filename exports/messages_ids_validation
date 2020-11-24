@@ -1,0 +1,822 @@
+======================================================================= Configuraciones utilizadas
+- Email de cliente: sebaswash@gmail.com
+- Email objetivo / emisor: recommendations@explore.pinterest.com
+- Regex asociada a los MID (message id): ^[A-Z0-9]{2}\.[A-Z0-9]{2}\.[0-9]{5}\.[A-Z0-9]{8}@a[a-z]\.mta4vrest\.cc\.prd\.sparkpost$
+- Mailbox seleccionado: inbox
+
+<9A.2D.26042.24E39AC5@aj.mta4vrest.cc.prd.sparkpost>  (Sun, 07 Apr 2019 00:03:14 +0000)
+-- Match de regex correcto.
+
+<02.C1.29646.DCE43EC5@al.mta4vrest.cc.prd.sparkpost>  (Tue, 21 May 2019 01:05:17 +0000)
+-- Match de regex correcto.
+
+<F9.3D.04989.EB49CEC5@ac.mta4vrest.cc.prd.sparkpost>  (Tue, 28 May 2019 01:54:06 +0000)
+-- Match de regex correcto.
+
+<84.E7.36021.02CC5FC5@ad.mta4vrest.cc.prd.sparkpost>  (Tue, 04 Jun 2019 01:40:48 +0000)
+-- Match de regex correcto.
+
+<30.4B.18664.8F90FFC5@ak.mta4vrest.cc.prd.sparkpost>  (Tue, 11 Jun 2019 01:55:04 +0000)
+-- Match de regex correcto.
+
+<E1.D4.23304.D7B380D5@al.mta4vrest.cc.prd.sparkpost>  (Tue, 18 Jun 2019 01:16:45 +0000)
+-- Match de regex correcto.
+
+<0D.5B.33981.423CA1D5@aa.mta4vrest.cc.prd.sparkpost>  (Tue, 02 Jul 2019 02:36:20 +0000)
+-- Match de regex correcto.
+
+<DD.5F.36454.A652D2D5@ac.mta4vrest.cc.prd.sparkpost>  (Tue, 16 Jul 2019 01:16:26 +0000)
+-- Match de regex correcto.
+
+<E9.D3.24066.345663D5@aa.mta4vrest.cc.prd.sparkpost>  (Tue, 23 Jul 2019 01:39:15 +0000)
+-- Match de regex correcto.
+
+<1B.F9.05200.71AD84D5@ad.mta4vrest.cc.prd.sparkpost>  (Tue, 06 Aug 2019 01:38:31 +0000)
+-- Match de regex correcto.
+
+<D9.4D.33183.6DA575D5@ah.mta4vrest.cc.prd.sparkpost>  (Sat, 17 Aug 2019 01:39:34 +0000)
+-- Match de regex correcto.
+
+<D7.96.23260.AF6D56D5@aj.mta4vrest.cc.prd.sparkpost>  (Wed, 28 Aug 2019 01:20:58 +0000)
+-- Match de regex correcto.
+
+<9C.B7.31511.634D96D5@ab.mta4vrest.cc.prd.sparkpost>  (Sat, 31 Aug 2019 01:58:14 +0000)
+-- Match de regex correcto.
+
+<BE.E0.32777.0602B6D5@ag.mta4vrest.cc.prd.sparkpost>  (Sun, 01 Sep 2019 01:35:28 +0000)
+-- Match de regex correcto.
+
+<92.D3.12822.DFD007D5@al.mta4vrest.cc.prd.sparkpost>  (Wed, 04 Sep 2019 19:18:21 +0000)
+-- Match de regex correcto.
+
+<86.B7.24795.231607D5@ag.mta4vrest.cc.prd.sparkpost>  (Thu, 05 Sep 2019 01:13:22 +0000)
+-- Match de regex correcto.
+
+<5D.5C.14665.CC4B17D5@ad.mta4vrest.cc.prd.sparkpost>  (Fri, 06 Sep 2019 01:22:20 +0000)
+-- Match de regex correcto.
+
+<A1.97.06660.FD7037D5@aa.mta4vrest.cc.prd.sparkpost>  (Sat, 07 Sep 2019 01:29:03 +0000)
+-- Match de regex correcto.
+
+<B7.4C.06931.F6A547D5@al.mta4vrest.cc.prd.sparkpost>  (Sun, 08 Sep 2019 01:33:35 +0000)
+-- Match de regex correcto.
+
+<FC.DC.27338.C83DA7D5@ai.mta4vrest.cc.prd.sparkpost>  (Thu, 12 Sep 2019 23:23:56 +0000)
+-- Match de regex correcto.
+
+<3C.D8.13979.3C22C7D5@ag.mta4vrest.cc.prd.sparkpost>  (Fri, 13 Sep 2019 23:14:11 +0000)
+-- Match de regex correcto.
+
+<0B.BD.08278.870DE7D5@ah.mta4vrest.cc.prd.sparkpost>  (Sun, 15 Sep 2019 23:59:52 +0000)
+-- Match de regex correcto.
+
+<45.E9.13107.D31B68D5@al.mta4vrest.cc.prd.sparkpost>  (Sat, 21 Sep 2019 23:24:45 +0000)
+-- Match de regex correcto.
+
+<5F.4F.13107.365078D5@al.mta4vrest.cc.prd.sparkpost>  (Sun, 22 Sep 2019 05:23:47 +0000)
+-- Match de regex correcto.
+
+<83.78.00966.E88598D5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 23 Sep 2019 23:43:10 +0000)
+-- Match de regex correcto.
+
+<E4.59.23840.9B7529D5@ah.mta4vrest.cc.prd.sparkpost>  (Mon, 30 Sep 2019 19:30:01 +0000)
+-- Match de regex correcto.
+
+<75.BB.33460.E24E39D5@al.mta4vrest.cc.prd.sparkpost>  (Tue, 01 Oct 2019 23:41:34 +0000)
+-- Match de regex correcto.
+
+<D8.D4.26986.235869D5@aa.mta4vrest.cc.prd.sparkpost>  (Thu, 03 Oct 2019 23:33:06 +0000)
+-- Match de regex correcto.
+
+<03.E5.26986.EA2D79D5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 04 Oct 2019 23:15:58 +0000)
+-- Match de regex correcto.
+
+<5F.F0.25274.9058A9D5@ag.mta4vrest.cc.prd.sparkpost>  (Mon, 07 Oct 2019 00:21:29 +0000)
+-- Match de regex correcto.
+
+<62.7F.08978.666DB9D5@ak.mta4vrest.cc.prd.sparkpost>  (Tue, 08 Oct 2019 00:20:54 +0000)
+-- Match de regex correcto.
+
+<6D.9C.35483.34D00AD5@al.mta4vrest.cc.prd.sparkpost>  (Fri, 11 Oct 2019 05:04:03 +0000)
+-- Match de regex correcto.
+
+<A8.EA.05535.55D62AD5@af.mta4vrest.cc.prd.sparkpost>  (Sun, 13 Oct 2019 00:18:29 +0000)
+-- Match de regex correcto.
+
+<29.7F.35483.8E7C3AD5@al.mta4vrest.cc.prd.sparkpost>  (Mon, 14 Oct 2019 00:57:12 +0000)
+-- Match de regex correcto.
+
+<AE.73.30431.0C4C4AD5@ak.mta4vrest.cc.prd.sparkpost>  (Mon, 14 Oct 2019 18:56:00 +0000)
+-- Match de regex correcto.
+
+<E7.1A.21388.1D209AD5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 18 Oct 2019 00:09:53 +0000)
+-- Match de regex correcto.
+
+<86.4D.08579.BEDFCAD5@ag.mta4vrest.cc.prd.sparkpost>  (Mon, 21 Oct 2019 00:38:03 +0000)
+-- Match de regex correcto.
+
+<14.C8.08579.5FAFDAD5@ag.mta4vrest.cc.prd.sparkpost>  (Mon, 21 Oct 2019 18:37:41 +0000)
+-- Match de regex correcto.
+
+<3A.81.05342.1B587BD5@al.mta4vrest.cc.prd.sparkpost>  (Tue, 29 Oct 2019 00:20:01 +0000)
+-- Match de regex correcto.
+
+<E2.84.26312.F86D8BD5@ad.mta4vrest.cc.prd.sparkpost>  (Wed, 30 Oct 2019 00:17:19 +0000)
+-- Match de regex correcto.
+
+<1F.37.28732.96B2EBD5@ai.mta4vrest.cc.prd.sparkpost>  (Sun, 03 Nov 2019 01:20:41 +0000)
+-- Match de regex correcto.
+
+<F5.B5.01535.5B2A0CD5@aa.mta4vrest.cc.prd.sparkpost>  (Mon, 04 Nov 2019 22:14:13 +0000)
+-- Match de regex correcto.
+
+<E3.C7.03398.55952CD5@al.mta4vrest.cc.prd.sparkpost>  (Wed, 06 Nov 2019 05:25:41 +0000)
+-- Match de regex correcto.
+
+<33.BE.08368.99473CD5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 07 Nov 2019 01:34:17 +0000)
+-- Match de regex correcto.
+
+<CF.03.23713.47CB8CD5@aj.mta4vrest.cc.prd.sparkpost>  (Mon, 11 Nov 2019 01:42:12 +0000)
+-- Match de regex correcto.
+
+<E8.0B.26217.25D0ACD5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 12 Nov 2019 01:39:30 +0000)
+-- Match de regex correcto.
+
+<3B.E6.32621.DAFACCD5@aa.mta4vrest.cc.prd.sparkpost>  (Thu, 14 Nov 2019 01:36:45 +0000)
+-- Match de regex correcto.
+
+<BE.39.30744.1E45FCD5@af.mta4vrest.cc.prd.sparkpost>  (Sat, 16 Nov 2019 01:46:09 +0000)
+-- Match de regex correcto.
+
+<14.EB.11974.C4394DD5@ad.mta4vrest.cc.prd.sparkpost>  (Wed, 20 Nov 2019 01:13:48 +0000)
+-- Match de regex correcto.
+
+<76.08.30744.21FE5DD5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 21 Nov 2019 01:57:38 +0000)
+-- Match de regex correcto.
+
+<93.D3.25745.8B32FDD5@aa.mta4vrest.cc.prd.sparkpost>  (Thu, 28 Nov 2019 01:32:40 +0000)
+-- Match de regex correcto.
+
+<F0.A7.31658.2C070ED5@ad.mta4vrest.cc.prd.sparkpost>  (Fri, 29 Nov 2019 01:13:38 +0000)
+-- Match de regex correcto.
+
+<F8.12.26532.D46D2ED5@aj.mta4vrest.cc.prd.sparkpost>  (Sat, 30 Nov 2019 20:51:25 +0000)
+-- Match de regex correcto.
+
+<23.70.11023.49C13ED5@ap.mta4vrest.cc.prd.sparkpost>  (Sun, 01 Dec 2019 01:51:16 +0000)
+-- Match de regex correcto.
+
+<DE.0B.07048.06BB5ED5@am.mta4vrest.cc.prd.sparkpost>  (Tue, 03 Dec 2019 01:33:20 +0000)
+-- Match de regex correcto.
+
+<F0.7B.06399.D8518ED5@ar.mta4vrest.cc.prd.sparkpost>  (Wed, 04 Dec 2019 20:22:37 +0000)
+-- Match de regex correcto.
+
+<4B.D6.26987.E72B9ED5@af.mta4vrest.cc.prd.sparkpost>  (Fri, 06 Dec 2019 01:44:30 +0000)
+-- Match de regex correcto.
+
+<40.1D.08048.8515CED5@aj.mta4vrest.cc.prd.sparkpost>  (Sun, 08 Dec 2019 01:26:48 +0000)
+-- Match de regex correcto.
+
+<A0.3A.13873.3998CED5@ai.mta4vrest.cc.prd.sparkpost>  (Sun, 08 Dec 2019 05:26:43 +0000)
+-- Match de regex correcto.
+
+<07.7D.23590.43144FD5@am.mta4vrest.cc.prd.sparkpost>  (Sat, 14 Dec 2019 01:56:04 +0000)
+-- Match de regex correcto.
+
+<B5.0A.23590.6AB28FD5@am.mta4vrest.cc.prd.sparkpost>  (Tue, 17 Dec 2019 01:13:10 +0000)
+-- Match de regex correcto.
+
+<C5.31.34383.5362CFD5@aj.mta4vrest.cc.prd.sparkpost>  (Fri, 20 Dec 2019 01:39:01 +0000)
+-- Match de regex correcto.
+
+<2B.81.16536.519040E5@aa.mta4vrest.cc.prd.sparkpost>  (Thu, 26 Dec 2019 01:12:53 +0000)
+-- Match de regex correcto.
+
+<30.97.15478.C04B60E5@ai.mta4vrest.cc.prd.sparkpost>  (Sat, 28 Dec 2019 01:46:52 +0000)
+-- Match de regex correcto.
+
+<18.38.34296.095590E5@ac.mta4vrest.cc.prd.sparkpost>  (Mon, 30 Dec 2019 01:40:32 +0000)
+-- Match de regex correcto.
+
+<43.A8.10428.D4E9A0E5@am.mta4vrest.cc.prd.sparkpost>  (Tue, 31 Dec 2019 01:03:09 +0000)
+-- Match de regex correcto.
+
+<1E.C4.10428.C354D0E5@am.mta4vrest.cc.prd.sparkpost>  (Thu, 02 Jan 2020 01:19:56 +0000)
+-- Match de regex correcto.
+
+<8A.FC.28021.65D7D0E5@al.mta4vrest.cc.prd.sparkpost>  (Thu, 02 Jan 2020 05:19:18 +0000)
+-- Match de regex correcto.
+
+<B0.7F.15728.8ADD31E5@ar.mta4vrest.cc.prd.sparkpost>  (Tue, 07 Jan 2020 01:23:52 +0000)
+-- Match de regex correcto.
+
+<AD.B4.01119.023CB1E5@ao.mta4vrest.cc.prd.sparkpost>  (Mon, 13 Jan 2020 01:08:48 +0000)
+-- Match de regex correcto.
+
+<81.BA.31821.E615D1E5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 14 Jan 2020 05:28:14 +0000)
+-- Match de regex correcto.
+
+<B0.32.01112.B95622E5@ag.mta4vrest.cc.prd.sparkpost>  (Sat, 18 Jan 2020 01:55:39 +0000)
+-- Match de regex correcto.
+
+<06.5C.35008.A94042E5@al.mta4vrest.cc.prd.sparkpost>  (Sun, 19 Jan 2020 07:26:18 +0000)
+-- Match de regex correcto.
+
+<98.40.11016.613A72E5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 22 Jan 2020 01:19:18 +0000)
+-- Match de regex correcto.
+
+<1A.2B.25508.611492E5@ae.mta4vrest.cc.prd.sparkpost>  (Thu, 23 Jan 2020 06:45:42 +0000)
+-- Match de regex correcto.
+
+<FA.5C.33070.6CA4A2E5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 24 Jan 2020 01:39:18 +0000)
+-- Match de regex correcto.
+
+<7B.9B.27220.4EF9B2E5@ak.mta4vrest.cc.prd.sparkpost>  (Sat, 25 Jan 2020 01:54:44 +0000)
+-- Match de regex correcto.
+
+<EC.9B.25508.9BAEC2E5@ae.mta4vrest.cc.prd.sparkpost>  (Sun, 26 Jan 2020 01:26:17 +0000)
+-- Match de regex correcto.
+
+<AB.4E.14365.5B83E2E5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 27 Jan 2020 01:11:17 +0000)
+-- Match de regex correcto.
+
+<F0.76.25508.A89DF2E5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 28 Jan 2020 06:49:46 +0000)
+-- Match de regex correcto.
+
+<6E.9A.09100.2E1073E5@ar.mta4vrest.cc.prd.sparkpost>  (Sun, 02 Feb 2020 17:07:46 +0000)
+-- Match de regex correcto.
+
+<8D.D0.19225.970F83E5@ad.mta4vrest.cc.prd.sparkpost>  (Tue, 04 Feb 2020 04:18:01 +0000)
+-- Match de regex correcto.
+
+<DA.C3.22911.6A81A3E5@aj.mta4vrest.cc.prd.sparkpost>  (Wed, 05 Feb 2020 01:21:42 +0000)
+-- Match de regex correcto.
+
+<AA.7A.21589.89EFA3E5@ar.mta4vrest.cc.prd.sparkpost>  (Wed, 05 Feb 2020 17:42:48 +0000)
+-- Match de regex correcto.
+
+<FA.7F.17999.574CC3E5@ae.mta4vrest.cc.prd.sparkpost>  (Fri, 07 Feb 2020 01:59:17 +0000)
+-- Match de regex correcto.
+
+<80.06.25481.A8FA04E5@aa.mta4vrest.cc.prd.sparkpost>  (Mon, 10 Feb 2020 01:19:06 +0000)
+-- Match de regex correcto.
+
+<EC.1D.00796.563814E5@aj.mta4vrest.cc.prd.sparkpost>  (Mon, 10 Feb 2020 16:23:01 +0000)
+-- Match de regex correcto.
+
+<B4.D2.41262.039A44E5@ad.mta4vrest.cc.prd.sparkpost>  (Thu, 13 Feb 2020 01:41:04 +0000)
+-- Match de regex correcto.
+
+<1E.1F.48385.241F54E5@af.mta4vrest.cc.prd.sparkpost>  (Fri, 14 Feb 2020 01:00:50 +0000)
+-- Match de regex correcto.
+
+<96.31.09442.D2E474E5@ae.mta4vrest.cc.prd.sparkpost>  (Sat, 15 Feb 2020 01:49:33 +0000)
+-- Match de regex correcto.
+
+<22.4B.07936.65B3B4E5@ah.mta4vrest.cc.prd.sparkpost>  (Tue, 18 Feb 2020 01:18:14 +0000)
+-- Match de regex correcto.
+
+<E7.E5.20227.B79C55E5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 26 Feb 2020 01:27:23 +0000)
+-- Match de regex correcto.
+
+<E5.63.46042.733AA5E5@ai.mta4vrest.cc.prd.sparkpost>  (Sat, 29 Feb 2020 17:45:27 +0000)
+-- Match de regex correcto.
+
+<1A.42.46042.6EA5C5E5@ai.mta4vrest.cc.prd.sparkpost>  (Mon, 02 Mar 2020 01:01:26 +0000)
+-- Match de regex correcto.
+
+<26.58.38990.2CA0F5E5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 04 Mar 2020 01:56:18 +0000)
+-- Match de regex correcto.
+
+<76.07.27950.923506E5@ag.mta4vrest.cc.prd.sparkpost>  (Thu, 05 Mar 2020 01:17:29 +0000)
+-- Match de regex correcto.
+
+<46.07.45725.66DF26E5@ac.mta4vrest.cc.prd.sparkpost>  (Sat, 07 Mar 2020 01:48:22 +0000)
+-- Match de regex correcto.
+
+<9C.82.15009.07FE66E5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 10 Mar 2020 01:37:52 +0000)
+-- Match de regex correcto.
+
+<58.46.21955.5AAF76E5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 10 Mar 2020 20:37:57 +0000)
+-- Match de regex correcto.
+
+<29.36.31103.37D386E5@ag.mta4vrest.cc.prd.sparkpost>  (Wed, 11 Mar 2020 01:22:59 +0000)
+-- Match de regex correcto.
+
+<AE.22.12532.DDF896E5@ac.mta4vrest.cc.prd.sparkpost>  (Thu, 12 Mar 2020 01:26:53 +0000)
+-- Match de regex correcto.
+
+<A4.9C.31734.5AD717E5@ai.mta4vrest.cc.prd.sparkpost>  (Wed, 18 Mar 2020 01:47:17 +0000)
+-- Match de regex correcto.
+
+<AF.1E.01186.93B087E5@aa.mta4vrest.cc.prd.sparkpost>  (Mon, 23 Mar 2020 01:04:57 +0000)
+-- Match de regex correcto.
+
+<11.F3.05950.1B7697E5@ag.mta4vrest.cc.prd.sparkpost>  (Tue, 24 Mar 2020 01:51:45 +0000)
+-- Match de regex correcto.
+
+<47.31.00896.64C418E5@ah.mta4vrest.cc.prd.sparkpost>  (Mon, 30 Mar 2020 01:32:54 +0000)
+-- Match de regex correcto.
+
+<CC.A9.08605.F20E78E5@aa.mta4vrest.cc.prd.sparkpost>  (Sat, 04 Apr 2020 01:17:35 +0000)
+-- Match de regex correcto.
+
+<B7.78.41848.31A398E5@ac.mta4vrest.cc.prd.sparkpost>  (Sun, 05 Apr 2020 01:53:23 +0000)
+-- Match de regex correcto.
+
+<DE.E2.10108.4008A8E5@ai.mta4vrest.cc.prd.sparkpost>  (Mon, 06 Apr 2020 01:04:04 +0000)
+-- Match de regex correcto.
+
+<75.66.01215.B19DB8E5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 07 Apr 2020 01:36:27 +0000)
+-- Match de regex correcto.
+
+<F8.F2.47635.840EF8E5@ac.mta4vrest.cc.prd.sparkpost>  (Fri, 10 Apr 2020 02:56:08 +0000)
+-- Match de regex correcto.
+
+<1B.83.02651.5C5219E5@ag.mta4vrest.cc.prd.sparkpost>  (Sat, 11 Apr 2020 02:04:53 +0000)
+-- Match de regex correcto.
+
+<19.3F.44403.94DC39E5@ah.mta4vrest.cc.prd.sparkpost>  (Mon, 13 Apr 2020 02:24:09 +0000)
+-- Match de regex correcto.
+
+<4B.BA.12129.FB3B49E5@ae.mta4vrest.cc.prd.sparkpost>  (Mon, 13 Apr 2020 18:47:27 +0000)
+-- Match de regex correcto.
+
+<9F.3A.27069.728769E5@ag.mta4vrest.cc.prd.sparkpost>  (Wed, 15 Apr 2020 02:57:43 +0000)
+-- Match de regex correcto.
+
+<B9.7C.07494.372199E5@ah.mta4vrest.cc.prd.sparkpost>  (Fri, 17 Apr 2020 02:20:35 +0000)
+-- Match de regex correcto.
+
+<10.30.36108.5C76A9E5@aa.mta4vrest.cc.prd.sparkpost>  (Sat, 18 Apr 2020 02:36:53 +0000)
+-- Match de regex correcto.
+
+<A5.9E.07494.0144B9E5@ah.mta4vrest.cc.prd.sparkpost>  (Sat, 18 Apr 2020 18:16:48 +0000)
+-- Match de regex correcto.
+
+<DB.2C.36108.C94BB9E5@aa.mta4vrest.cc.prd.sparkpost>  (Sun, 19 Apr 2020 02:17:00 +0000)
+-- Match de regex correcto.
+
+<88.89.36108.2EEAF9E5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 22 Apr 2020 02:41:38 +0000)
+-- Match de regex correcto.
+
+<54.A8.15184.96252AE5@ah.mta4vrest.cc.prd.sparkpost>  (Fri, 24 Apr 2020 02:43:53 +0000)
+-- Match de regex correcto.
+
+<9B.03.12011.0BC64AE5@ab.mta4vrest.cc.prd.sparkpost>  (Sat, 25 Apr 2020 17:00:32 +0000)
+-- Match de regex correcto.
+
+<DF.55.44238.13BE4AE5@ag.mta4vrest.cc.prd.sparkpost>  (Sun, 26 Apr 2020 02:00:17 +0000)
+-- Match de regex correcto.
+
+<C0.12.03479.68A97AE5@ac.mta4vrest.cc.prd.sparkpost>  (Tue, 28 Apr 2020 02:52:54 +0000)
+-- Match de regex correcto.
+
+<5E.26.15184.166E8AE5@ah.mta4vrest.cc.prd.sparkpost>  (Wed, 29 Apr 2020 02:28:49 +0000)
+-- Match de regex correcto.
+
+<DC.0E.41996.FB63AAE5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 30 Apr 2020 02:23:59 +0000)
+-- Match de regex correcto.
+
+<FA.AF.30494.3848BAE5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 01 May 2020 02:08:03 +0000)
+-- Match de regex correcto.
+
+<50.F8.30494.DBEDCAE5@aa.mta4vrest.cc.prd.sparkpost>  (Sat, 02 May 2020 02:45:17 +0000)
+-- Match de regex correcto.
+
+<D5.ED.16733.F26D0BE5@ai.mta4vrest.cc.prd.sparkpost>  (Tue, 05 May 2020 02:57:51 +0000)
+-- Match de regex correcto.
+
+<3D.32.32648.EAF12BE5@ad.mta4vrest.cc.prd.sparkpost>  (Wed, 06 May 2020 02:23:42 +0000)
+-- Match de regex correcto.
+
+<3A.5D.04727.62C67BE5@ai.mta4vrest.cc.prd.sparkpost>  (Sun, 10 May 2020 02:51:18 +0000)
+-- Match de regex correcto.
+
+<A2.51.11191.8ED0ABE5@ag.mta4vrest.cc.prd.sparkpost>  (Tue, 12 May 2020 02:46:00 +0000)
+-- Match de regex correcto.
+
+<F4.75.37100.5A19DBE5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 14 May 2020 18:44:53 +0000)
+-- Match de regex correcto.
+
+<A5.5C.31284.7220EBE5@ah.mta4vrest.cc.prd.sparkpost>  (Fri, 15 May 2020 02:44:55 +0000)
+-- Match de regex correcto.
+
+<02.F2.31284.22C4FBE5@ah.mta4vrest.cc.prd.sparkpost>  (Sat, 16 May 2020 02:12:50 +0000)
+-- Match de regex correcto.
+
+<8F.7E.22816.5B240CE5@ab.mta4vrest.cc.prd.sparkpost>  (Sat, 16 May 2020 19:44:53 +0000)
+-- Match de regex correcto.
+
+<51.C4.25270.024F1CE5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 18 May 2020 02:34:08 +0000)
+-- Match de regex correcto.
+
+<A0.A3.37100.CD643CE5@af.mta4vrest.cc.prd.sparkpost>  (Tue, 19 May 2020 02:39:24 +0000)
+-- Match de regex correcto.
+
+<3E.E2.14436.05685CE5@ab.mta4vrest.cc.prd.sparkpost>  (Wed, 20 May 2020 19:34:40 +0000)
+-- Match de regex correcto.
+
+<63.48.20509.0F588CE5@ac.mta4vrest.cc.prd.sparkpost>  (Sat, 23 May 2020 02:09:52 +0000)
+-- Match de regex correcto.
+
+<4F.71.09698.6882BCE5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 25 May 2020 02:08:06 +0000)
+-- Match de regex correcto.
+
+<50.A4.12169.A8A0CCE5@ag.mta4vrest.cc.prd.sparkpost>  (Mon, 25 May 2020 18:12:26 +0000)
+-- Match de regex correcto.
+
+<19.E8.38415.41B7CCE5@ah.mta4vrest.cc.prd.sparkpost>  (Tue, 26 May 2020 02:12:36 +0000)
+-- Match de regex correcto.
+
+<80.DA.20509.ACEAECE5@ac.mta4vrest.cc.prd.sparkpost>  (Wed, 27 May 2020 18:17:46 +0000)
+-- Match de regex correcto.
+
+<2E.8D.03593.F2F1FCE5@ai.mta4vrest.cc.prd.sparkpost>  (Thu, 28 May 2020 02:17:19 +0000)
+-- Match de regex correcto.
+
+<D5.60.29319.C3D60DE5@ag.mta4vrest.cc.prd.sparkpost>  (Fri, 29 May 2020 02:02:36 +0000)
+-- Match de regex correcto.
+
+<56.5D.29319.825C1DE5@ag.mta4vrest.cc.prd.sparkpost>  (Sat, 30 May 2020 02:30:00 +0000)
+-- Match de regex correcto.
+
+<05.6B.10047.C7523DE5@ac.mta4vrest.cc.prd.sparkpost>  (Sun, 31 May 2020 03:33:16 +0000)
+-- Match de regex correcto.
+
+<F6.0D.07692.D8C64DE5@af.mta4vrest.cc.prd.sparkpost>  (Mon, 01 Jun 2020 02:48:45 +0000)
+-- Match de regex correcto.
+
+<E1.FF.14648.F97C5DE5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 02 Jun 2020 03:29:35 +0000)
+-- Match de regex correcto.
+
+<36.24.39317.1CA96DE5@ac.mta4vrest.cc.prd.sparkpost>  (Tue, 02 Jun 2020 18:30:25 +0000)
+-- Match de regex correcto.
+
+<29.D5.28161.992F7DE5@ac.mta4vrest.cc.prd.sparkpost>  (Wed, 03 Jun 2020 18:57:29 +0000)
+-- Match de regex correcto.
+
+<B4.68.45540.4EBA9DE5@ag.mta4vrest.cc.prd.sparkpost>  (Fri, 05 Jun 2020 02:20:20 +0000)
+-- Match de regex correcto.
+
+<81.EB.02299.C6AFADE5@ac.mta4vrest.cc.prd.sparkpost>  (Sat, 06 Jun 2020 02:07:40 +0000)
+-- Match de regex correcto.
+
+<7F.61.42782.6C2FBDE5@ai.mta4vrest.cc.prd.sparkpost>  (Sat, 06 Jun 2020 19:47:18 +0000)
+-- Match de regex correcto.
+
+<77.BB.02273.0F45CDE5@ad.mta4vrest.cc.prd.sparkpost>  (Sun, 07 Jun 2020 02:46:08 +0000)
+-- Match de regex correcto.
+
+<26.22.04405.C9C40EE5@ah.mta4vrest.cc.prd.sparkpost>  (Wed, 10 Jun 2020 02:59:40 +0000)
+-- Match de regex correcto.
+
+<F8.9F.27531.51C21EE5@ad.mta4vrest.cc.prd.sparkpost>  (Wed, 10 Jun 2020 18:53:09 +0000)
+-- Match de regex correcto.
+
+<5E.F0.40070.16C91EE5@ab.mta4vrest.cc.prd.sparkpost>  (Thu, 11 Jun 2020 02:52:17 +0000)
+-- Match de regex correcto.
+
+<7D.E0.15819.02EE2EE5@ae.mta4vrest.cc.prd.sparkpost>  (Fri, 12 Jun 2020 02:53:20 +0000)
+-- Match de regex correcto.
+
+<33.2E.02047.0FF34EE5@ah.mta4vrest.cc.prd.sparkpost>  (Sat, 13 Jun 2020 02:54:40 +0000)
+-- Match de regex correcto.
+
+<90.DC.02047.F1D15EE5@ah.mta4vrest.cc.prd.sparkpost>  (Sat, 13 Jun 2020 18:38:23 +0000)
+-- Match de regex correcto.
+
+<45.C0.40070.07C28EE5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 16 Jun 2020 02:20:32 +0000)
+-- Match de regex correcto.
+
+<89.36.09709.DBC1CEE5@ae.mta4vrest.cc.prd.sparkpost>  (Fri, 19 Jun 2020 02:02:37 +0000)
+-- Match de regex correcto.
+
+<9F.DB.41846.7417DEE5@ac.mta4vrest.cc.prd.sparkpost>  (Sat, 20 Jun 2020 02:15:35 +0000)
+-- Match de regex correcto.
+
+<4B.EE.11413.237CEEE5@aa.mta4vrest.cc.prd.sparkpost>  (Sun, 21 Jun 2020 02:34:26 +0000)
+-- Match de regex correcto.
+
+<AF.7A.22680.82310FE5@ag.mta4vrest.cc.prd.sparkpost>  (Mon, 22 Jun 2020 02:10:48 +0000)
+-- Match de regex correcto.
+
+<85.46.29711.1D401FE5@af.mta4vrest.cc.prd.sparkpost>  (Mon, 22 Jun 2020 19:21:53 +0000)
+-- Match de regex correcto.
+
+<41.A6.31153.A97B2FE5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 24 Jun 2020 02:16:58 +0000)
+-- Match de regex correcto.
+
+<60.C9.13236.38265FE5@ai.mta4vrest.cc.prd.sparkpost>  (Fri, 26 Jun 2020 02:50:43 +0000)
+-- Match de regex correcto.
+
+<80.82.32793.77F97FE5@ah.mta4vrest.cc.prd.sparkpost>  (Sat, 27 Jun 2020 19:35:19 +0000)
+-- Match de regex correcto.
+
+<80.84.14595.9434AFE5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 29 Jun 2020 19:38:49 +0000)
+-- Match de regex correcto.
+
+<EB.9F.47336.C95AAFE5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 30 Jun 2020 02:38:20 +0000)
+-- Match de regex correcto.
+
+<99.64.12843.016FBFE5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 01 Jul 2020 02:33:52 +0000)
+-- Match de regex correcto.
+
+<D2.1D.41393.5E64DFE5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 02 Jul 2020 02:31:01 +0000)
+-- Match de regex correcto.
+
+<B0.4B.15193.5E72EFE5@ab.mta4vrest.cc.prd.sparkpost>  (Thu, 02 Jul 2020 18:31:01 +0000)
+-- Match de regex correcto.
+
+<DA.91.12843.6BF310F5@aa.mta4vrest.cc.prd.sparkpost>  (Sun, 05 Jul 2020 02:49:26 +0000)
+-- Match de regex correcto.
+
+<E7.0C.01675.133920F5@ah.mta4vrest.cc.prd.sparkpost>  (Mon, 06 Jul 2020 02:57:53 +0000)
+-- Match de regex correcto.
+
+<DD.74.22808.284E30F5@ac.mta4vrest.cc.prd.sparkpost>  (Tue, 07 Jul 2020 02:57:06 +0000)
+-- Match de regex correcto.
+
+<FF.5F.02228.1B2860F5@ad.mta4vrest.cc.prd.sparkpost>  (Thu, 09 Jul 2020 02:36:33 +0000)
+-- Match de regex correcto.
+
+<A6.D0.22602.75BFD0F5@ac.mta4vrest.cc.prd.sparkpost>  (Tue, 14 Jul 2020 18:37:11 +0000)
+-- Match de regex correcto.
+
+<E5.A8.13863.58A6E0F5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 15 Jul 2020 02:31:33 +0000)
+-- Match de regex correcto.
+
+<53.D4.30253.5A1CF0F5@ai.mta4vrest.cc.prd.sparkpost>  (Thu, 16 Jul 2020 02:55:33 +0000)
+-- Match de regex correcto.
+
+<52.C3.49123.E53621F5@ag.mta4vrest.cc.prd.sparkpost>  (Sat, 18 Jul 2020 02:50:06 +0000)
+-- Match de regex correcto.
+
+<67.BB.49123.63A331F5@ag.mta4vrest.cc.prd.sparkpost>  (Sat, 18 Jul 2020 18:06:46 +0000)
+-- Match de regex correcto.
+
+<1A.2E.32411.171051F5@ah.mta4vrest.cc.prd.sparkpost>  (Mon, 20 Jul 2020 02:29:05 +0000)
+-- Match de regex correcto.
+
+<A2.B1.40616.4BF971F5@ac.mta4vrest.cc.prd.sparkpost>  (Wed, 22 Jul 2020 02:08:52 +0000)
+-- Match de regex correcto.
+
+<6B.09.46799.70DD91F5@ae.mta4vrest.cc.prd.sparkpost>  (Thu, 23 Jul 2020 18:55:03 +0000)
+-- Match de regex correcto.
+
+<69.AF.44420.2F34A1F5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 24 Jul 2020 02:14:10 +0000)
+-- Match de regex correcto.
+
+<C9.BD.46799.2163E1F5@ae.mta4vrest.cc.prd.sparkpost>  (Mon, 27 Jul 2020 02:04:02 +0000)
+-- Match de regex correcto.
+
+<A1.02.46799.E1C8F1F5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 28 Jul 2020 02:23:26 +0000)
+-- Match de regex correcto.
+
+<86.51.46799.7CD602F5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 28 Jul 2020 18:26:15 +0000)
+-- Match de regex correcto.
+
+<C5.87.44420.495E02F5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 29 Jul 2020 02:57:24 +0000)
+-- Match de regex correcto.
+
+<61.63.02700.29EC12F5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 29 Jul 2020 19:31:30 +0000)
+-- Match de regex correcto.
+
+<9D.32.07853.0D8832F5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 31 Jul 2020 02:58:24 +0000)
+-- Match de regex correcto.
+
+<6E.DA.47033.BC1C82F5@aa.mta4vrest.cc.prd.sparkpost>  (Tue, 04 Aug 2020 02:02:51 +0000)
+-- Match de regex correcto.
+
+<E2.A4.08555.9B71A2F5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 05 Aug 2020 02:21:45 +0000)
+-- Match de regex correcto.
+
+<A4.D1.47033.6FE0B2F5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 05 Aug 2020 19:56:38 +0000)
+-- Match de regex correcto.
+
+<6B.81.11506.11B5F2F5@ad.mta4vrest.cc.prd.sparkpost>  (Sun, 09 Aug 2020 02:10:25 +0000)
+-- Match de regex correcto.
+
+<53.B6.25368.FD9913F5@ab.mta4vrest.cc.prd.sparkpost>  (Mon, 10 Aug 2020 19:02:55 +0000)
+-- Match de regex correcto.
+
+<EE.60.45957.87BA43F5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 13 Aug 2020 02:54:48 +0000)
+-- Match de regex correcto.
+
+<71.DD.08245.48C853F5@ag.mta4vrest.cc.prd.sparkpost>  (Thu, 13 Aug 2020 18:55:00 +0000)
+-- Match de regex correcto.
+
+<DC.DA.18259.FF2F53F5@ac.mta4vrest.cc.prd.sparkpost>  (Fri, 14 Aug 2020 02:12:15 +0000)
+-- Match de regex correcto.
+
+<76.BA.31844.F1C473F5@ad.mta4vrest.cc.prd.sparkpost>  (Sat, 15 Aug 2020 02:44:47 +0000)
+-- Match de regex correcto.
+
+<54.7A.23157.49B2F3F5@af.mta4vrest.cc.prd.sparkpost>  (Fri, 21 Aug 2020 02:04:04 +0000)
+-- Match de regex correcto.
+
+<14.D1.40951.758804F5@ai.mta4vrest.cc.prd.sparkpost>  (Sat, 22 Aug 2020 02:52:07 +0000)
+-- Match de regex correcto.
+
+<BD.0F.11799.E5FC14F5@ag.mta4vrest.cc.prd.sparkpost>  (Sun, 23 Aug 2020 02:07:26 +0000)
+-- Match de regex correcto.
+
+<4D.E8.23157.F5FB94F5@af.mta4vrest.cc.prd.sparkpost>  (Sat, 29 Aug 2020 02:37:19 +0000)
+-- Match de regex correcto.
+
+<48.5E.34933.1BF5C4F5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 31 Aug 2020 02:25:53 +0000)
+-- Match de regex correcto.
+
+<2A.FE.08308.AB60F4F5@ag.mta4vrest.cc.prd.sparkpost>  (Wed, 02 Sep 2020 02:43:06 +0000)
+-- Match de regex correcto.
+
+<AF.87.20970.BA0505F5@ae.mta4vrest.cc.prd.sparkpost>  (Thu, 03 Sep 2020 02:10:51 +0000)
+-- Match de regex correcto.
+
+<FA.7E.47068.4F9A15F5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 04 Sep 2020 02:44:04 +0000)
+-- Match de regex correcto.
+
+<90.CE.06492.2E5E35F5@ai.mta4vrest.cc.prd.sparkpost>  (Sat, 05 Sep 2020 19:24:18 +0000)
+-- Match de regex correcto.
+
+<DD.1A.13528.2BC385F5@ad.mta4vrest.cc.prd.sparkpost>  (Wed, 09 Sep 2020 02:23:46 +0000)
+-- Match de regex correcto.
+
+<83.5C.28507.1FF795F5@aa.mta4vrest.cc.prd.sparkpost>  (Thu, 10 Sep 2020 01:22:57 +0000)
+-- Match de regex correcto.
+
+<4C.1E.03487.7502C5F5@ai.mta4vrest.cc.prd.sparkpost>  (Sat, 12 Sep 2020 01:11:51 +0000)
+-- Match de regex correcto.
+
+<54.B8.36063.DB97D5F5@aa.mta4vrest.cc.prd.sparkpost>  (Sun, 13 Sep 2020 01:45:33 +0000)
+-- Match de regex correcto.
+
+<74.BE.41186.2E3106F5@ah.mta4vrest.cc.prd.sparkpost>  (Tue, 15 Sep 2020 01:07:46 +0000)
+-- Match de regex correcto.
+
+<1E.1F.03487.DD6E06F5@ai.mta4vrest.cc.prd.sparkpost>  (Tue, 15 Sep 2020 16:07:57 +0000)
+-- Match de regex correcto.
+
+<B7.40.48659.212C26F5@ad.mta4vrest.cc.prd.sparkpost>  (Thu, 17 Sep 2020 01:55:30 +0000)
+-- Match de regex correcto.
+
+<B8.53.29263.F75876F5@af.mta4vrest.cc.prd.sparkpost>  (Sun, 20 Sep 2020 16:38:23 +0000)
+-- Match de regex correcto.
+
+<2A.0B.37589.AB9596F5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 22 Sep 2020 01:56:10 +0000)
+-- Match de regex correcto.
+
+<D4.21.12790.6BC2A6F5@ag.mta4vrest.cc.prd.sparkpost>  (Tue, 22 Sep 2020 16:56:22 +0000)
+-- Match de regex correcto.
+
+<43.D5.19686.606AA6F5@ah.mta4vrest.cc.prd.sparkpost>  (Wed, 23 Sep 2020 01:33:58 +0000)
+-- Match de regex correcto.
+
+<FB.9B.35312.168FB6F5@ai.mta4vrest.cc.prd.sparkpost>  (Thu, 24 Sep 2020 01:37:37 +0000)
+-- Match de regex correcto.
+
+<96.80.31994.F0BCC6F5@ac.mta4vrest.cc.prd.sparkpost>  (Thu, 24 Sep 2020 16:36:31 +0000)
+-- Match de regex correcto.
+
+<B6.3B.12790.FD44D6F5@ag.mta4vrest.cc.prd.sparkpost>  (Fri, 25 Sep 2020 01:16:15 +0000)
+-- Match de regex correcto.
+
+<63.FD.06822.FAE317F5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 28 Sep 2020 01:38:55 +0000)
+-- Match de regex correcto.
+
+<52.CB.19253.87A827F5@aa.mta4vrest.cc.prd.sparkpost>  (Tue, 29 Sep 2020 01:14:32 +0000)
+-- Match de regex correcto.
+
+<B1.55.11120.52AD37F5@af.mta4vrest.cc.prd.sparkpost>  (Wed, 30 Sep 2020 01:06:45 +0000)
+-- Match de regex correcto.
+
+<DC.5A.10778.DBDF57F5@ai.mta4vrest.cc.prd.sparkpost>  (Thu, 01 Oct 2020 16:03:09 +0000)
+-- Match de regex correcto.
+
+<C6.01.30253.7CD767F5@ah.mta4vrest.cc.prd.sparkpost>  (Fri, 02 Oct 2020 01:09:27 +0000)
+-- Match de regex correcto.
+
+<A2.B3.11120.B56D77F5@af.mta4vrest.cc.prd.sparkpost>  (Sat, 03 Oct 2020 01:39:39 +0000)
+-- Match de regex correcto.
+
+<EB.6B.17386.FA6F97F5@ad.mta4vrest.cc.prd.sparkpost>  (Sun, 04 Oct 2020 16:22:07 +0000)
+-- Match de regex correcto.
+
+<5B.C1.16218.F25CB7F5@ab.mta4vrest.cc.prd.sparkpost>  (Tue, 06 Oct 2020 01:15:27 +0000)
+-- Match de regex correcto.
+
+<F8.F1.16674.F6E6E7F5@aa.mta4vrest.cc.prd.sparkpost>  (Thu, 08 Oct 2020 01:42:07 +0000)
+-- Match de regex correcto.
+
+<76.7A.25413.2614F7F5@ac.mta4vrest.cc.prd.sparkpost>  (Thu, 08 Oct 2020 16:42:10 +0000)
+-- Match de regex correcto.
+
+<C0.95.25413.C01CF7F5@ac.mta4vrest.cc.prd.sparkpost>  (Fri, 09 Oct 2020 01:46:52 +0000)
+-- Match de regex correcto.
+
+<72.92.08744.7A1628F5@ai.mta4vrest.cc.prd.sparkpost>  (Sun, 11 Oct 2020 01:36:39 +0000)
+-- Match de regex correcto.
+
+<E9.53.42172.BA4338F5@ad.mta4vrest.cc.prd.sparkpost>  (Sun, 11 Oct 2020 16:36:59 +0000)
+-- Match de regex correcto.
+
+<4E.5E.08744.633D58F5@ai.mta4vrest.cc.prd.sparkpost>  (Tue, 13 Oct 2020 16:17:58 +0000)
+-- Match de regex correcto.
+
+<FA.F3.42172.C97EC8F5@ad.mta4vrest.cc.prd.sparkpost>  (Mon, 19 Oct 2020 01:10:52 +0000)
+-- Match de regex correcto.
+
+<4E.4F.22484.9951F8F5@ad.mta4vrest.cc.prd.sparkpost>  (Tue, 20 Oct 2020 16:51:37 +0000)
+-- Match de regex correcto.
+
+<89.30.32904.D449F8F5@af.mta4vrest.cc.prd.sparkpost>  (Wed, 21 Oct 2020 01:52:13 +0000)
+-- Match de regex correcto.
+
+<5A.F5.03440.179B19F5@ac.mta4vrest.cc.prd.sparkpost>  (Thu, 22 Oct 2020 16:55:13 +0000)
+-- Match de regex correcto.
+
+<35.E3.08034.DF2839F5@aa.mta4vrest.cc.prd.sparkpost>  (Sat, 24 Oct 2020 01:27:25 +0000)
+-- Match de regex correcto.
+
+<2C.FA.03240.4F2D49F5@ab.mta4vrest.cc.prd.sparkpost>  (Sun, 25 Oct 2020 01:20:52 +0000)
+-- Match de regex correcto.
+
+<81.D4.47889.7A0269F5@ae.mta4vrest.cc.prd.sparkpost>  (Mon, 26 Oct 2020 01:04:39 +0000)
+-- Match de regex correcto.
+
+<A9.16.03240.D93F69F5@ab.mta4vrest.cc.prd.sparkpost>  (Mon, 26 Oct 2020 16:04:45 +0000)
+-- Match de regex correcto.
+
+<D1.3D.08034.0E7779F5@aa.mta4vrest.cc.prd.sparkpost>  (Tue, 27 Oct 2020 01:29:04 +0000)
+-- Match de regex correcto.
+
+<7F.EE.27405.F8D999F5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 28 Oct 2020 16:34:23 +0000)
+-- Match de regex correcto.
+
+<59.D2.47617.CD56B9F5@ah.mta4vrest.cc.prd.sparkpost>  (Fri, 30 Oct 2020 01:01:16 +0000)
+-- Match de regex correcto.
+
+<B4.0D.25450.D7BBC9F5@ac.mta4vrest.cc.prd.sparkpost>  (Sat, 31 Oct 2020 01:18:53 +0000)
+-- Match de regex correcto.
+
+<97.1A.11811.8921E9F5@ae.mta4vrest.cc.prd.sparkpost>  (Sun, 01 Nov 2020 01:42:48 +0000)
+-- Match de regex correcto.
+
+<F6.5E.17704.B77A0AF5@af.mta4vrest.cc.prd.sparkpost>  (Tue, 03 Nov 2020 00:42:35 +0000)
+-- Match de regex correcto.
+
+<A8.AC.11811.022D2AF5@ae.mta4vrest.cc.prd.sparkpost>  (Wed, 04 Nov 2020 16:09:04 +0000)
+-- Match de regex correcto.
+
+<39.BF.16152.70353AF5@ad.mta4vrest.cc.prd.sparkpost>  (Thu, 05 Nov 2020 01:19:03 +0000)
+-- Match de regex correcto.
+
+<A8.AA.23735.D7A75AF5@ai.mta4vrest.cc.prd.sparkpost>  (Fri, 06 Nov 2020 16:31:57 +0000)
+-- Match de regex correcto.
+
+<5D.26.25006.C0FF5AF5@ab.mta4vrest.cc.prd.sparkpost>  (Sat, 07 Nov 2020 01:57:32 +0000)
+-- Match de regex correcto.
+
+<8D.DC.43544.57938AF5@aa.mta4vrest.cc.prd.sparkpost>  (Sun, 08 Nov 2020 18:31:17 +0000)
+-- Match de regex correcto.
+
+<34.CD.23735.A9A98AF5@ai.mta4vrest.cc.prd.sparkpost>  (Mon, 09 Nov 2020 01:25:46 +0000)
+-- Match de regex correcto.
+
+<72.01.25006.CCE69AF5@ab.mta4vrest.cc.prd.sparkpost>  (Mon, 09 Nov 2020 16:31:08 +0000)
+-- Match de regex correcto.
+
+<CB.6E.12470.586E9AF5@ae.mta4vrest.cc.prd.sparkpost>  (Tue, 10 Nov 2020 01:01:57 +0000)
+-- Match de regex correcto.
+
+<36.6B.12537.41D3BAF5@af.mta4vrest.cc.prd.sparkpost>  (Wed, 11 Nov 2020 01:23:32 +0000)
+-- Match de regex correcto.
+
+<5F.7F.12470.00A9DAF5@ae.mta4vrest.cc.prd.sparkpost>  (Thu, 12 Nov 2020 20:24:32 +0000)
+-- Match de regex correcto.
+
+<2D.6A.43544.7D1BEAF5@aa.mta4vrest.cc.prd.sparkpost>  (Fri, 13 Nov 2020 16:18:31 +0000)
+-- Match de regex correcto.
+
+<28.ED.25006.EBD2FAF5@ab.mta4vrest.cc.prd.sparkpost>  (Sat, 14 Nov 2020 01:07:10 +0000)
+-- Match de regex correcto.
+
+<F4.21.05272.543A2BF5@ah.mta4vrest.cc.prd.sparkpost>  (Mon, 16 Nov 2020 16:05:25 +0000)
+-- Match de regex correcto.
+
+<21.F9.23735.8F223BF5@ai.mta4vrest.cc.prd.sparkpost>  (Tue, 17 Nov 2020 01:10:16 +0000)
+-- Match de regex correcto.
+
+<CC.99.47807.10A84BF5@aa.mta4vrest.cc.prd.sparkpost>  (Wed, 18 Nov 2020 02:42:09 +0000)
+-- Match de regex correcto.
+
+<C0.88.03443.96FB5BF5@af.mta4vrest.cc.prd.sparkpost>  (Thu, 19 Nov 2020 00:42:17 +0000)
+-- Match de regex correcto.
+
+<34.88.41298.F4AB9BF5@ae.mta4vrest.cc.prd.sparkpost>  (Sun, 22 Nov 2020 01:09:35 +0000)
+-- Match de regex correcto.
+
+<79.52.27626.35D5CBF5@ah.mta4vrest.cc.prd.sparkpost>  (Tue, 24 Nov 2020 01:09:39 +0000)
+-- Match de regex correcto.
+
