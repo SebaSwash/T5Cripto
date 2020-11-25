@@ -2,7 +2,8 @@
 - Email de cliente: sebaswash@gmail.com
 - Email objetivo / emisor: recommendations@explore.pinterest.com
 - Regex asociada a los MID (message id): ^[A-Z0-9]{2}\.[A-Z0-9]{2}\.[0-9]{5}\.[A-Z0-9]{8}@a[a-z]\.mta4vrest\.cc\.prd\.sparkpost$
-- Mailbox seleccionado: inbox
+- Fecha de soporte de regex: 2019-06-04
+- Mailbox seleccionado: INBOX
 
 <9A.2D.26042.24E39AC5@aj.mta4vrest.cc.prd.sparkpost>  (Sun, 07 Apr 2019 00:03:14 +0000)
 -- Match de regex correcto.
@@ -819,4 +820,7 @@
 
 <79.52.27626.35D5CBF5@ah.mta4vrest.cc.prd.sparkpost>  (Tue, 24 Nov 2020 01:09:39 +0000)
 -- Match de regex correcto.
+
+<20201125193937.2B5A427D3E@localhost>  (Wed, 25 Nov 2020 14:39:37 -0500 (EST))
+* Match de regex incorrecto. Posible correo falso.
 
