@@ -5,6 +5,7 @@
 # ---------------------------------------------------
 import imaplib, re, os, csv
 from getpass import getpass
+from dateutil import parser
 from email.parser import HeaderParser
 from colorama import Fore, Back, Style, init
 
@@ -18,9 +19,10 @@ def clear_screen():
 
 class MailClient:
   def __init__(self):
-    self.mail = None
-    self.regex_list = []
-    self.filepath = None
+    self.mail = None # Atributo para almacenar instancia de servidor IMAP
+    self.regex_list = [] # Lista de combinaciones correo_emisor, regex, fecha_regex
+    self.filepath = None # Ruta del archivo de las combinaciones correo_emisor, regex, fecha_regex
+    self.regex_date = None # Fecha límite que soporta la regex
 
     # Se realiza la conexión al servidor IMAP de Gmail
     self.imap_server_connection()
@@ -132,6 +134,7 @@ class MailClient:
       msg_export_file.write('- Email de cliente: ' + self.email + '\n')
       msg_export_file.write('- Email objetivo / emisor: ' + self.email_target + '\n')
       msg_export_file.write('- Regex asociada a los MID (message id): ' + self.mid_regex + '\n')
+      msg_export_file.write('- Fecha de soporte de regex: ' +str(self.regex_date) + '\n')
       msg_export_file.write('- Mailbox seleccionado: ' + self.mailbox + '\n')
       msg_export_file.write('\n')
       
@@ -151,6 +154,9 @@ class MailClient:
           plain_mid = str(header['message-id']).replace('<','').replace('>','') # Se remueven los símbolos (<,>) que contienen al MID (message id)
           regex_match = re.search(self.mid_regex, plain_mid) # Matching entre regex y MID
 
+          # Se realiza un parse a la fecha asociada al MID (se transforma según el formato de str a date)
+          mid_date = parser.parse(header['Date']).date()
+          
           if regex_match is not None:
             # El message id coincide con la expresión regular especificada
             print(Back.GREEN + Fore.WHITE + 'MID válido según regex.' + Style.RESET_ALL)
@@ -159,8 +165,16 @@ class MailClient:
             msg_export_file.write('-- Match de regex correcto.\n\n')
 
           else:
+
+            # Se verifica si la fecha del MID es menor a la fecha que soporta la regex
+            if self.regex_date > mid_date:
+              # Si la fecha del MID es menor, entonces probable que haya problemas de compatibilidad con la regex
+              print(Back.WHITE + Fore.BLACK + '[!] La fecha del mensaje es menor a la soportada por la regex. Posible problema de compatibilidad.' + Style.RESET_ALL)
+
+              msg_export_file.write('* La fecha del mensaje es menor a la soportada por la regex. Posible problema de compatibilidad.\n')
+
             # El message id NO coincide con la expresión regular especificada. Posible correo falso.
-            print(Back.RED+Fore.WHITE+'[!] MID inválido según regex. Posible correo falso.' + Style.RESET_ALL)
+            print(Back.RED + Fore.WHITE + '[!] MID inválido según regex. Posible correo falso.' + Style.RESET_ALL)
 
             # Se escribe en el archivo la validación de la regex con el MID
             msg_export_file.write('* Match de regex incorrecto. Posible correo falso.\n\n')
@@ -232,6 +246,7 @@ class MailClient:
     print('')
     print('Email objetivo / emisor: ' + self.email_target)
     print('Regex asociada a los MID (message id): ' + self.mid_regex)
+    print('Fecha de soporte de regex: '+ str(self.regex_date))
     print('Buzón (mailbox) seleccionado: ' + self.mailbox)
     print('')
   
@@ -275,6 +290,10 @@ class MailClient:
 
       self.email_target = self.regex_list[int(regex_option)][0] # Email emisor seleccionado
       self.mid_regex = self.regex_list[int(regex_option)][1] # Regex asociada al email emisor
+      self.regex_date = self.regex_list[int(regex_option)][2] # Fecha límite soportada por la regex seleccionada
+
+      # Se transforma el formato de la fecha obtenida desde el archivo
+      self.regex_date = parser.parse(self.regex_date).date()
 
       status, mailbox_list = self.mail.list()
 
@@ -302,7 +321,6 @@ class MailClient:
       self.mail.select('INBOX')
       print(Back.RED + Fore.WHITE + '[Error] Se ha producido el siguiente error:')
       print(str(error) + Style.RESET_ALL)
-      return
     
     self.show_config()
     input('Presiona ENTER para continuar.')

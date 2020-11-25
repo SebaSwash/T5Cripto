@@ -1,0 +1,10 @@
+======================================================================= Configuraciones utilizadas
+- Email de cliente: sebaswash@gmail.com
+- Email objetivo / emisor: recommendations@explore.pinterest.com
+- Regex asociada a los MID (message id): ^[A-Z0-9]{2}\.[A-Z0-9]{2}\.[0-9]{5}\.[A-Z0-9]{8}@a[a-z]\.mta4vrest\.cc\.prd\.sparkpost$
+- Fecha de soporte de regex: 2019-06-04
+- Mailbox seleccionado: [Gmail]/Spam
+
+<20201125223414.7E6E627C5B@localhost>  (Wed, 25 Nov 2020 17:34:14 -0500 (EST))
+* Match de regex incorrecto. Posible correo falso.
+
